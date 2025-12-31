@@ -2,5 +2,5 @@
 
 computer science and engineering
 <img align="right" hight="290" width="370" src="https://www.tech-bhai.com/wp-content/uploads/2024/10/gifImg-8.gif" alt="no gif load">
-- Here's my <img hight="30" width="20" src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000"> [portfolio](https://nathesh-portfolio.vercel.app/)
+- Here's my <img hight="30" width="20" src="<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/026a784e-0530-4250-87c4-c96f2fe32a06" /> [portfolio](https://nathesh-portfolio.vercel.app/)
 - Here's my [Linkedin](https://www.linkedin.com/in/nathesh1305)
