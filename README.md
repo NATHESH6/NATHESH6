@@ -9,7 +9,9 @@ I'm computer science and engineering student
 
 1. 🔭 Here's my [portfolio](https://nathesh-portfolio.vercel.app/) <br><br>
 2. 🔭 Here's my [Linkedin](https://www.linkedin.com/in/nathesh1305)<br>
-3. <div><img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/mail.png" alt="mail"/></div> touch me [megaladevi2084@gmail.com](https://@gmail.com)
+3. <div>
+ <img src="https://img.icons8.com/3d-fluency/94/mail.png" alt="mail"/>
+ </div>touch me [megaladevi2084@gmail.com](https://gmail.com)
 ---
 
 ### 🚀 Tech Stack    
