@@ -26,5 +26,8 @@ I'm computer science and engineering student
  </div>
 
 ---
-### <div><imge src="https://img.icons8.com/ios/50/my-computer.png" alt="my-computer"/> </div> Workspace spec
+### 
+<div> 
+<imge src="https://img.icons8.com/ios/50/my-computer.png" alt="my-computer"/>
+</div> Workspace spec
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NATHESH?theme=dark&font=Marmelad&ext=contest)
