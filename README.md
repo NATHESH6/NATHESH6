@@ -26,7 +26,7 @@ My profile:
 
 ---
 ### 💻 Workspace spec
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Nathesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NATHESH6)](https://github.com/NATHESH6/github-readme-stats)
 <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NATHESH?theme=dark&font=Marmelad&ext=contest)
 ### 📈 Contribution Graph
