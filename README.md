@@ -18,6 +18,6 @@ I'm computer science and engineering student
 
 ### 🚀 IDE and Tools I Use
 <div>
-<img src="https://skillicons.dev/icons?i=VScode,pycham"/>
+<img src="https://skillicons.dev/icons?i=MSoffice/>
  </div>
 ---
