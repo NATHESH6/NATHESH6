@@ -18,6 +18,6 @@ I'm computer science and engineering student
 
 ### 🚀 IDE and Tools I Use
 <div>
-<img src="https://skillicons.dev/icons?i=pycharm,office"/>
+<img src="https://skillicons.dev/icons?i=pycharm,"/><image  hight="50" wiidth="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"/>
  </div>
 
