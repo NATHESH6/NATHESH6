@@ -27,7 +27,7 @@ My profile:
 ---
 ### 💻 Workspace spec
 [![Nathesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NATHESH6)](https://github.com/NATHESH6/github-readme-stats)
-<br>
+<br><br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NATHESH?theme=dark&font=Marmelad&ext=contest)
 ### 📈 Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NATHESH6&bg_color=24292f&color=f5f5f5&line=7ef7f5&point=07eded&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
