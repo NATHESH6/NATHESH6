@@ -8,7 +8,7 @@ I'm computer science and engineering student
 </p>
 - 🔭 Here's my [portfolio](https://nathesh-portfolio.vercel.app/) <br>
 - 🔭 Here's my [Linkedin](https://www.linkedin.com/in/nathesh1305)
-
+<br>
 ---
 
 ### 🚀 Tech Stack    
