@@ -1,2 +1,2 @@
-🔗# Hi there  It's Nathesh
+Hi there  It's Nathesh
 ---
