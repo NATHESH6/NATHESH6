@@ -14,9 +14,9 @@ I'm computer science and engineering student
 ### 🚀 Tech Stack    
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,flask,java,github&theme=light" />
-</div>
-<hr>
-🚀 IDE and Tools I Use
+</div><hr>
+
+### 🚀 IDE and Tools I Use
 <div>
 <img src="https://skillicons.dev/icons?i=pycharm,vscode,ae"/>
  </div>
