@@ -18,6 +18,6 @@ I'm computer science and engineering student
 
 ### 🚀 IDE and Tools I Use
 <div>
-<img src="https://skillicons.dev/icons?i=pycharm,Visual Studio"/>
+<img src="https://skillicons.dev/icons?i=pycharm,office"/>
  </div>
 
