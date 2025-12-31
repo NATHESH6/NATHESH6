@@ -6,7 +6,7 @@ I'm computer science and engineering student
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;+%7C+HTML+%7C+CSS+%7C+JS+%7C+PYTHON+%7c+MYSQL+%7c;Love+to+Build+Modern+Web+Applications" alt="Typing SVG" />
 </p>
-- 🔭 Here's my [portfolio](https://nathesh-portfolio.vercel.app/) <br>
+- 🔭 Here's my [portfolio](https://nathesh-portfolio.vercel.app/) <br><br>
 - 🔭 Here's my [Linkedin](https://www.linkedin.com/in/nathesh1305)<br>
 
 ---
