@@ -17,5 +17,7 @@ I'm computer science and engineering student
 </div>
 
 ### 🚀 IDE and Tools I Use
-<img src="https://skillicons.dev/icons?i=html"/>
+<div>
+<img src="https://skillicons.dev/icons?i=VS code,pycham"/>
+ </div>
 ---
