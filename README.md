@@ -9,7 +9,7 @@ I'm  computer science and engineering  final year  student
 - 🔭 Here's my [portfolio](https://nathesh-portfolio.vercel.app/) <br><br>
 - 🔭 Here's my [Linkedin](https://www.linkedin.com/in/nathesh1305)<br>
 
-<br><br><br><hr>
+<br><br><br><br><hr>
 
 ### 🚀 Tech Stack    
 <div align="left">
