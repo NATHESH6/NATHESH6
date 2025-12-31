@@ -3,4 +3,4 @@
 computer science and engineering
 <img align="right" hight="290" width="370" src="https://www.tech-bhai.com/wp-content/uploads/2024/10/gifImg-8.gif" alt="no gif load">
 - Here's my [portfolio](https://nathesh-portfolio.vercel.app/)
-- Here's my [Linkedin](www.linkedin.com/in/nathesh1305)
+- Here's my [Linkedin](https://www.linkedin.com/in/nathesh1305)
