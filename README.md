@@ -16,7 +16,7 @@ I'm computer science and engineering student
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,flask,java,github&theme=light" />
 </div>
 <hr>
-### 🚀 IDE and Tools I Use
+🚀 IDE and Tools I Use
 <div>
 <img src="https://skillicons.dev/icons?i=pycharm,vscode,ae"/>
  </div>
