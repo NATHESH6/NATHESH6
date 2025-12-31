@@ -11,9 +11,9 @@ I'm computer science and engineering student
 
 ---
 
-### 🚀 Tech Stack  
+### 🚀 I Code In  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python" />
 </div>
 
 ---
