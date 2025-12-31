@@ -21,6 +21,7 @@ I'm computer science and engineering student
 <img src="https://skillicons.dev/icons?i=pycharm,vscode,ae" />
  <img src="https://img.icons8.com/fluency/48/microsoft-365.png" alt="microsoft-365"/>
  <img  src="https://img.icons8.com/color/48/virtualbox.png" alt="virtualbox"/>
+ <img  src="https://img.icons8.com/ios/50/computer-support.png" alt="computer-support"/>
  </div>
 
 ---
