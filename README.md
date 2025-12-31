@@ -13,11 +13,11 @@ I'm computer science and engineering student
 
 ### 🚀 Tech Stack    
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,java,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,flask,java,github&theme=light" />
 </div>
 
 ### 🚀 IDE and Tools I Use
 <div>
-<img src="https://skillicons.dev/icons?i=pycharm,vscode"/><image  hight="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"/>
+<img src="https://skillicons.dev/icons?i=pycharm,vscode,ae"/>
  </div>
 
