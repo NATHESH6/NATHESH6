@@ -2,15 +2,6 @@
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;HTML+%7C+CSS+%7C+JS+%7C+PYTHON+%7c+MYSQL;Love+to+Build+Modern+Web+Application" alt="Typing SVG" />
   <style>
-    body {
-      font-family: monospace;
-      background: #111;
-      color: #0f0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
     .typing {
       border-right: 2px solid #0f0; /* cursor */
       white-space: nowrap;
