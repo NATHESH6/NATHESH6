@@ -2,53 +2,65 @@
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;HTML+%7C+CSS+%7C+JS+%7C+PYTHON+%7c+MYSQL;Love+to+Build+Modern+Web+Application" alt="Typing SVG" />
  </p>
- <p>
- <h1 class="typing" id="text"></h1>
+<!-- Continuous Typing Effect Demo -->
+<div align="center">
+  <h2 class="typing" id="typing"></h2>
+</div>
 
-  <script>
-    const phrases = [
-      "Hello,I'm Nathesh!",
-      "Welcome to my profile.",
-      "i'm a web developer & web designer.",
-      "I love coding and creating.",
-      "Like Html, CSS, JS ,MYSQL and Aython.",
-      "Love to build modern and responsive websites.",
-      "Feel free to explore my work!"
-    ];
+<style>
+  .typing {
+    font-family: monospace;
+    border-right: 2px solid #0f0; /* cursor */
+    white-space: nowrap;
+    overflow: hidden;
+    color: #0f0;
+  }
+</style>
 
-    let i = 0; // phrase index
-    let j = 0; // character index
-    let currentPhrase = [];
-    let isDeleting = false;
-    const speed = 100; // typing speed
-    const eraseSpeed = 50; // erasing speed
-    const delay = 1000; // pause before erasing
+<script>
+  const phrases = [
+    "🚀 Fast Backend Processing",
+    "🎨 Animated UI & Mascot-driven Design",
+    "🌗 Dark/Light Theme Toggle",
+    "🎧 Multi-Audio & Subtitle Support"
+  ];
 
-    function loop() {
-      const textElement = document.getElementById("text");
+  let i = 0; // phrase index
+  let j = 0; // character index
+  let currentPhrase = [];
+  let isDeleting = false;
+  const speed = 100; // typing speed
+  const eraseSpeed = 50; // erasing speed
+  const delay = 1000; // pause before erasing
 
-      if (!isDeleting && j < phrases[i].length) {
-        currentPhrase.push(phrases[i][j]);
-        j++;
-        textElement.textContent = currentPhrase.join("");
-        setTimeout(loop, speed);
-      } else if (isDeleting && j > 0) {
-        currentPhrase.pop();
-        j--;
-        textElement.textContent = currentPhrase.join("");
-        setTimeout(loop, eraseSpeed);
-      } else if (!isDeleting && j === phrases[i].length) {
-        isDeleting = true;
-        setTimeout(loop, delay);
-      } else if (isDeleting && j === 0) {
-        isDeleting = false;
-        i = (i + 1) % phrases.length;
-        setTimeout(loop, speed);
-      }
+  function loop() {
+    const textElement = document.getElementById("typing");
+
+    if (!isDeleting && j < phrases[i].length) {
+      currentPhrase.push(phrases[i][j]);
+      j++;
+      textElement.textContent = currentPhrase.join("");
+      setTimeout(loop, speed);
+    } else if (isDeleting && j > 0) {
+      currentPhrase.pop();
+      j--;
+      textElement.textContent = currentPhrase.join("");
+      setTimeout(loop, eraseSpeed);
+    } else if (!isDeleting && j === phrases[i].length) {
+      isDeleting = true;
+      setTimeout(loop, delay);
+    } else if (isDeleting && j === 0) {
+      isDeleting = false;
+      i = (i + 1) % phrases.length;
+      setTimeout(loop, speed);
     }
+  }
 
-    loop();
-  </script>
+  loop();
+</script>
+
+  
+       
   
  </p>
                                                               I'm  computer science and engineering  final year <br><br>
