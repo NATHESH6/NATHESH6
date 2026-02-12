@@ -1,7 +1,8 @@
 # Hi there 👋 It's  me Nathesh
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;HTML+%7C+CSS+%7C+JS+%7C+PYTHON+%7c+MYSQL;Love+to+Build+Modern+Web+Application" alt="Typing SVG" />
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,I'm Nathesh!;Welcome to my profilei'm a web developer & web designer;
+ I love coding and creating; Like Html, CSS, JS ,MYSQL and Aython; Love to build modern and responsive websites;Feel free to explore my work!" alt="Typing SVG" /></a>
 
  </p>
  
