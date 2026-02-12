@@ -25,6 +25,7 @@ My profile:
  <img src="https://img.icons8.com/fluency/48/microsoft-365.png" alt="microsoft-365"/>
  <img  src="https://img.icons8.com/color/48/virtualbox.png" alt="virtualbox"/>
  <img  src="https://img.icons8.com/color/48/computer-support.png" alt="computer-support"/>
+ <img width="50" height="50" src="https://img.icons8.com/fluency/48/audacity.png" alt="audacity"/>
  </div>
 
 ---
