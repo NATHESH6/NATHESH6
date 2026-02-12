@@ -16,7 +16,7 @@ My profile:
 
 ### 🚀 Tech Stack    
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,flask,java,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,flask,java&theme=light" />
 </div><hr>
 
 ### 🚀 IDE and Tools I Use
@@ -26,6 +26,7 @@ My profile:
  <img  src="https://img.icons8.com/color/48/virtualbox.png" alt="virtualbox"/>
  <img  src="https://img.icons8.com/color/48/computer-support.png" alt="computer-support"/>
  <img width="50" height="50" src="https://img.icons8.com/fluency/48/audacity.png" alt="audacity"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=light" />
  </div>
 
 ---
