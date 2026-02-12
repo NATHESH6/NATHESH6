@@ -1,6 +1,71 @@
 # Hi there 👋 It's  me Nathesh
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;HTML+%7C+CSS+%7C+JS+%7C+PYTHON+%7c+MYSQL;Love+to+Build+Modern+Web+Application" alt="Typing SVG" /></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;HTML+%7C+CSS+%7C+JS+%7C+PYTHON+%7c+MYSQL;Love+to+Build+Modern+Web+Application" alt="Typing SVG" />
+  <style>
+    body {
+      font-family: monospace;
+      background: #111;
+      color: #0f0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .typing {
+      border-right: 2px solid #0f0; /* cursor */
+      white-space: nowrap;
+      overflow: hidden;
+    }
+  </style>
+  <h1 class="typing" id="text"></h1>
+
+  <script>
+    const phrases = [
+      "Hello,I'm Nathesh!",
+      "Welcome to my profile.",
+      "i'm a web developer & web designer.",
+      "I love coding and creating.",
+      "Like Html, CSS, JS ,MYSQL and Aython.",
+      "Love to build modern and responsive websites.",
+      "Feel free to explore my work!"
+    ];
+
+    let i = 0; // phrase index
+    let j = 0; // character index
+    let currentPhrase = [];
+    let isDeleting = false;
+    const speed = 100; // typing speed
+    const eraseSpeed = 50; // erasing speed
+    const delay = 1000; // pause before erasing
+
+    function loop() {
+      const textElement = document.getElementById("text");
+
+      if (!isDeleting && j < phrases[i].length) {
+        currentPhrase.push(phrases[i][j]);
+        j++;
+        textElement.textContent = currentPhrase.join("");
+        setTimeout(loop, speed);
+      } else if (isDeleting && j > 0) {
+        currentPhrase.pop();
+        j--;
+        textElement.textContent = currentPhrase.join("");
+        setTimeout(loop, eraseSpeed);
+      } else if (!isDeleting && j === phrases[i].length) {
+        isDeleting = true;
+        setTimeout(loop, delay);
+      } else if (isDeleting && j === 0) {
+        isDeleting = false;
+        i = (i + 1) % phrases.length;
+        setTimeout(loop, speed);
+      }
+    }
+
+    loop();
+  </script>
+ 
+ 
+ </p>
 I'm  computer science and engineering  final year <br><br>
 <p>I build engaging web applications by combining thoughtful design with modern web technologies, focusing on responsive layouts and interactive user experiences.</p>
   <img align="right" hight="290" width="370" src="https://www.tech-bhai.com/wp-content/uploads/2024/10/gifImg-8.gif" alt="no gif load"><br>
