@@ -5,15 +5,10 @@
  <h2>💫About Me:</h2> 
  
 🔭 I am a final-year Computer Science and Engineering student at CIET College with a strong passion for Web Development and Machine Learning Engineering. <br><br>
-
 👯I enjoy building intelligent systems that solve real-world problems using data-driven approaches.<br><br>
-
 🤝During my third year, I successfully completed a project titled “Develop an AI System to Identify and Block Phishing Emails”, where I built a phishing email detection system using Machine Learning and XG-Boost.<br><br>
-
 🌱 The project was developed using Python, Flask, HTML, and CSS, focusing on building a practical and user-friendly web-based solution.<br><br>
-
 💬 I'm Currently, my final-year project focuses on Cyber Hacking Breach Prediction and Detection using Machine Learning and XG-Boost, where I am working on developing a predictive system to identify potential cyber threats and security breaches.<br><br>
-
 ⚡ Both project my role is leading &  support my teams members , Frontend designing and backend development using ML ,Flask in Python<br> 
 
   <img align="right" hight="290" width="370" src="https://www.tech-bhai.com/wp-content/uploads/2024/10/gifImg-8.gif" alt="no gif load"><br>
