@@ -2,7 +2,7 @@
  <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&color=00F7FF&center=true&vCenter=true&lines=Hello%2CI'm+Nathesh!;Welcome+to+my+profile;I'm+a+web+developer+%26+web+designer;I+love+coding+and+creating;Like+Html%7C+CSS%7C+JS+%7CMYSQL+%26+Python;Love+to+build+modern+and+responsive+websites;Feel+free+to+explore+my+work!" alt="Typing SVG" /></a>
  </p>
- #💫 About Me:
+ # 💫About Me:
  
 🔭 I am a final-year Computer Science and Engineering student at CIET College with a strong passion for Web Development and Machine Learning Engineering. <br><br>
 
