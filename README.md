@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ultimate-hacker-banner.svg" />
+  <img src="banner.svg" />
 </p>
 
 
