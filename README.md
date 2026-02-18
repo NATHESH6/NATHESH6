@@ -1,7 +1,153 @@
-<p align="center">
-  <img src="banner.svg" />
-</p>
 
+
+<svg width="1100" height="350" viewBox="0 0 1100 350" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#0f2027"/>
+    </linearGradient>
+
+    <!-- Glow Effect -->
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title {
+        fill: #00ff41;
+        font-size: 42px;
+        font-family: monospace;
+        font-weight: bold;
+        filter: url(#neonGlow);
+      }
+
+      .subtitle {
+        fill: #00ffaa;
+        font-size: 18px;
+        font-family: monospace;
+      }
+
+      .info {
+        fill: #ffffff;
+        font-size: 15px;
+        font-family: monospace;
+      }
+
+      .matrix {
+        fill: #00ff41;
+        font-size: 14px;
+        font-family: monospace;
+        opacity: 0.15;
+      }
+
+      .tech {
+        font-size: 18px;
+        font-family: monospace;
+        font-weight: bold;
+      }
+
+      .rotate {
+        transform-origin: center;
+        animation: spin 12s linear infinite;
+      }
+
+      @keyframes spin {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+
+      .float {
+        animation: float 4s ease-in-out infinite;
+      }
+
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+        100% { transform: translateY(0px); }
+      }
+
+      .codeMove {
+        animation: codeScroll 6s linear infinite;
+      }
+
+      @keyframes codeScroll {
+        from { transform: translateY(0px); }
+        to { transform: translateY(-40px); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)" />
+
+  <!-- Matrix Rain Effect -->
+  <text x="50" y="40" class="matrix">101010010110101010101010101010101010101</text>
+  <text x="300" y="100" class="matrix">11010101010100101010101011010101010101</text>
+  <text x="600" y="70" class="matrix">10101010101101010101010101010101010101</text>
+  <text x="900" y="130" class="matrix">01010101010101011010101010101010101010</text>
+
+  <!-- Personal Info -->
+  <text x="60" y="100" class="title">NATHESH PV</text>
+  <text x="60" y="140" class="subtitle">Hacker Mode | Full Stack Developer</text>
+
+  <text x="60" y="180" class="info">📍 Thevur, Salem</text>
+  <text x="60" y="205" class="info">📧 swffsfwf@gmail.com</text>
+  <text x="60" y="230" class="info">📱 9822978989</text>
+
+  <!-- Rotating Tech Stack Circle -->
+  <g class="rotate" transform="translate(850,170)">
+    <text x="-60" y="-70" fill="#f89820" class="tech">Java</text>
+    <text x="60" y="-50" fill="#3776AB" class="tech">Python</text>
+    <text x="70" y="40" fill="#F7DF1E" class="tech">JS</text>
+    <text x="-40" y="80" fill="#E34F26" class="tech">HTML5</text>
+    <text x="-110" y="40" fill="#1572B6" class="tech">CSS3</text>
+    <text x="-90" y="-40" fill="#00758F" class="tech">MySQL</text>
+    <text x="0" y="0" fill="#ffffff" class="tech">GitHub</text>
+  </g>
+
+  <!-- Computer Setup -->
+  <g class="float">
+    <!-- Monitor -->
+    <rect x="500" y="100" width="250" height="150" rx="10" fill="#111"/>
+    <rect x="520" y="120" width="210" height="110" fill="#001f00" />
+
+    <!-- Moving Code -->
+    <g class="codeMove">
+      <text x="530" y="150" fill="#00ff41" font-family="monospace" font-size="12">
+        &lt;html&gt;
+      </text>
+      <text x="530" y="165" fill="#00ff41" font-family="monospace" font-size="12">
+        console.log("Hacked");
+      </text>
+      <text x="530" y="180" fill="#00ff41" font-family="monospace" font-size="12">
+        SELECT * FROM users;
+      </text>
+      <text x="530" y="195" fill="#00ff41" font-family="monospace" font-size="12">
+        System.out.println("Hi");
+      </text>
+    </g>
+
+    <!-- Stand -->
+    <rect x="600" y="250" width="50" height="15" fill="#555"/>
+
+    <!-- Keyboard -->
+    <rect x="470" y="280" width="310" height="15" rx="5" fill="#222"/>
+
+    <!-- Mouse -->
+    <ellipse cx="820" cy="287" rx="12" ry="8" fill="#333"/>
+
+    <!-- Coffee -->
+    <rect x="430" y="260" width="20" height="25" fill="#444"/>
+    <ellipse cx="440" cy="260" rx="10" ry="5" fill="#666"/>
+  </g>
+
+</svg>
 
 
 # Hi there 👋 It's  me Nathesh
