@@ -31,6 +31,8 @@
  <img  src="https://img.icons8.com/color/48/computer-support.png" alt="computer-support"/>
  <img width="50" height="50" src="https://img.icons8.com/fluency/48/audacity.png" alt="audacity"/>
   <img src="https://skillicons.dev/icons?i=github&theme=light" />
+ <img width="50" height="50" src="https://img.icons8.com/color/48/netlify.png" alt="netlify"/>
+ <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/vercel.png" alt="vercel"/>
  </div>
 
 ---
