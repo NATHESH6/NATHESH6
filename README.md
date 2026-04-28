@@ -44,7 +44,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NATHESH6&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NATHESH6&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ### Streak:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NATHESH6&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=D_F[,_Y])](https://git.io/streak-stats)
 ![](https://nirzak-streak-stats.vercel.app/?user=NATHESH6&theme=dark&hide_border=false)<br/>
