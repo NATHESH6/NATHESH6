@@ -46,9 +46,7 @@
 ### 📊 GitHub Stats:
 <div>
  
-![Rank](https://github-readme-stats.vercel.app/api?username=NATHESH6&theme=prussian&hide_border=flase&include_all_commits=false&count_private=false)
-
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NATHESH6&hide_border=ture&include_all_commits=false&count_private=false&layout=compact&theme=dracula)
+![Rank](https://github-readme-stats.vercel.app/api?username=NATHESH6&theme=prussian&hide_border=flase&include_all_commits=false&count_private=false)![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NATHESH6&hide_border=ture&include_all_commits=false&count_private=false&layout=compact&theme=dracula)
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NATHESH6&theme=prussian&fire=black-ice&date_format=D_F[,_Y])](https://git.io/streak-stats)
