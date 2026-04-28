@@ -54,6 +54,7 @@
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NATHESH6&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NATHESH6&rank=S,AAA)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NATHESH6&limit=6&combine_all_yearly_contributions=true)
