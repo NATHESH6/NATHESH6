@@ -22,12 +22,14 @@
 <br><hr>
 
 ### 🚀 Tech Stack    
-```
+<hr>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,flask,java&theme=light" />
 </div>
-```
+
 ### 🚀 IDE and Tools I Use
+<hr>
+
 <div>
 <img src="https://skillicons.dev/icons?i=pycharm,vscode,ae" />
  <img src="https://img.icons8.com/fluency/48/microsoft-365.png" alt="microsoft-365"/>
@@ -44,12 +46,12 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NATHESH?theme=dark&font=Marmelad&ext=contest)
 
 ### ✍️ Random Dev Quote
-
+<hr>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📊 GitHub Stats:
-
+<hr>
 
  ![](https://komarev.com/ghpvc/?username=NATHESH6&abbreviated=true&style=for-the-badge)
  <br><br>
@@ -60,10 +62,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NATHESH6&theme=prussian&fire=black-ice&date_format=D_F[,_Y])](https://git.io/streak-stats)
 
 ### 🏆 GitHub Trophies
+<hr>
+
 ![](https://github-profile-trophy.vercel.app/?username=NATHESH6&margin-w=4&theme=dracula)
 
 ### 📈 Contribution Graph
-
+<hr>
 
 [![NATHESH6's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NATHESH6&bg_color=24292f&color=f5f5f5&line=7ef7f5&point=07eded&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
