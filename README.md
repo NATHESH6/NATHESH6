@@ -53,7 +53,7 @@
 
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NATHESH6&margin-w=4&theme=)
+![](https://github-profile-trophy.vercel.app/?username=NATHESH6&margin-w=4&theme=dracula)
 
 
 ### 🔝 Top Contributed Repo
