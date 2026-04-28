@@ -41,23 +41,22 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NATHESH?theme=dark&font=Marmelad&ext=contest)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NATHESH6&theme=prussian&hide_border=flase&include_all_commits=false&count_private=false)<br/>
+![Rank](https://github-readme-stats.vercel.app/api?username=NATHESH6&theme=prussian&hide_border=flase&include_all_commits=false&count_private=false)<br/>
 ### Streak:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NATHESH6&theme=prussian&fire=black-ice&date_format=D_F[,_Y])](https://git.io/streak-stats)
 <br/>
 ### Most Use Language:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NATHESH6&hide_border=ture&include_all_commits=false&count_private=false&layout=compact&theme=dracula)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NATHESH6&hide_border=ture&include_all_commits=false&count_private=false&layout=compact&theme=dracula)
 
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NATHESH6&margin-w=4&theme=dracula)
 
 
-### 🔝 Top Contributed Repo
-![hi](https://github-contributor-stats.vercel.app/api?username=NATHESH6&limit=6&combine_all_yearly_contributions=true)
+
 
 
 ### 📈 Contribution Graph
