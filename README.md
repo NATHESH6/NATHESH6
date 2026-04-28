@@ -36,7 +36,7 @@
  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/vercel.png" alt="vercel"/>
  </div>
 
----
+
 ### 💻 Workspace spec
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NATHESH?theme=dark&font=Marmelad&ext=contest)
 
@@ -44,14 +44,13 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📊 GitHub Stats:
- ![](https://komarev.com/ghpvc/?username=NATHESH6&abbreviated=true&style=for-the-badge)<br>
+ ![](https://komarev.com/ghpvc/?username=NATHESH6&abbreviated=true&style=for-the-badge)
+ <br><br>
  ![Rank](https://github-readme-stats.vercel.app/api?username=NATHESH6&theme=prussian&hide_border=flase&include_all_commits=false&count_private=false)  
 <br>
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NATHESH6&hide_border=ture&include_all_commits=false&count_private=false&layout=compact&theme=dracula)
 <br>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NATHESH6&theme=prussian&fire=black-ice&date_format=D_F[,_Y])](https://git.io/streak-stats)
-
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NATHESH6&margin-w=4&theme=dracula)
 
