@@ -22,10 +22,11 @@
 <br><hr>
 
 ### 🚀 Tech Stack    
+```
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,flask,java&theme=light" />
 </div>
-
+```
 ### 🚀 IDE and Tools I Use
 <div>
 <img src="https://skillicons.dev/icons?i=pycharm,vscode,ae" />
