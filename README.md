@@ -58,7 +58,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NATHESH6&limit=6&combine_all_yearly_contributions=true)
-
+![Top Contrubuteed Repo](https://github-contrib-stats.vercel.app/NATHESH6/created.svg?max_repos=7)
 
 ### 📈 Contribution Graph
 [![NATHESH6's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NATHESH6&bg_color=24292f&color=f5f5f5&line=7ef7f5&point=07eded&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
