@@ -45,9 +45,9 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NATHESH6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-###Streak
+### Streak:
 ![](https://nirzak-streak-stats.vercel.app/?user=NATHESH6&theme=dark&hide_border=false)<br/>
-###
+### Most Use Language:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NATHESH6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
