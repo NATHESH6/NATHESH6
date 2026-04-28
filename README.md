@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&color=00F7FF&center=true&vCenter=true&lines=Hello%2CI'm+Nathesh!;Welcome+to+my+profile;I'm+a+web+developer+%26+web+designer;I+love+coding+and+creating;Like+Html%7C+CSS%7C+JS+%7CMYSQL+%26+Python;Love+to+build+modern+and+responsive+websites;Feel+free+to+explore+my+work!" alt="Typing SVG" /></a>
  </p>
  
- ![](https://komarev.com/ghpvc/?username=NATHESH6&abbreviated=true)
+
  <h2>💫About Me:</h2> 
  
 🔭 I am a final-year Computer Science and Engineering student at CIET College with a strong passion for Web Development and Machine Learning Engineering. <br><br>
@@ -44,6 +44,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📊 GitHub Stats:
+ ![](https://komarev.com/ghpvc/?username=NATHESH6&abbreviated=true)<br>
  ![Rank](https://github-readme-stats.vercel.app/api?username=NATHESH6&theme=prussian&hide_border=flase&include_all_commits=false&count_private=false)  
 <br>
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NATHESH6&hide_border=ture&include_all_commits=false&count_private=false&layout=compact&theme=dracula)
