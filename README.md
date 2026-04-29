@@ -60,7 +60,7 @@
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NATHESH6&hide_border=ture&include_all_commits=false&count_private=false&layout=compact&theme=dracula)
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NATHESH6&theme=prussian&fire=black-ice&date_format=D_F[,_Y])](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NATHESH6)](https://git.io/streak-stats)
 ### 🏆 GitHub Trophies
 <hr>
 
