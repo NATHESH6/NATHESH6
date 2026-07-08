@@ -53,13 +53,10 @@
 ### 📊 GitHub Stats:
 <hr>
 
- ![](https://komarev.com/ghpvc/?username=NATHESH6&abbreviated=true&style=for-the-badge)
- <br><br>
- ![Rank](https://github-readme-stats.vercel.app/api?username=NATHESH6&theme=prussian&hide_border=flase&include_all_commits=false&count_private=false)  
-<br>
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NATHESH6&hide_border=ture&include_all_commits=false&count_private=false&layout=compact&theme=dracula)
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NATHESH6&theme=prussian&fire=black-ice&date_format=D_F[,_Y])](https://git.io/streak-stats)
+![](https://github-readme-stats.shion.dev/api?username=NATHESH6&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=NATHESH6&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=NATHESH6&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### 🏆 GitHub Trophies
 <hr>
