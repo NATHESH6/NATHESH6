@@ -1,5 +1,5 @@
 # Hi there 👋 It's  me Nathesh
-![](https://komarev.com/ghpvc/?NATHESH6=your-github-NATHESH6&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=NATHESH6)
  <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&color=00F7FF&center=true&vCenter=true&lines=Hello%2CI'm+Nathesh!;Welcome+to+my+profile;I'm+a+web+developer+%26+web+designer;I+love+coding+and+creating;Like+Html%7C+CSS%7C+JS+%7CMYSQL+%26+Python;Love+to+build+modern+and+responsive+websites;Feel+free+to+explore+my+work!" alt="Typing SVG" /></a>
  </p>
