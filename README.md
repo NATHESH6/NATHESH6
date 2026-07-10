@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=NATHESH6&abbreviated=true)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+
 # Hi there 👋 It's  me Nathesh
 
  <p align="center">
