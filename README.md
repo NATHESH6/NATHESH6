@@ -9,7 +9,8 @@
 
  <h2>💫About Me:</h2> 
  
-🔭 I am a final-year Computer Science and Engineering student at CIET College with a strong passion for Web Development and Machine Learning Engineering. <br><br>
+🔭 Hi there, I’m Nathesh, currently a graduate BE.CSE at Coimbatore Institute of Engineering and Technology in Coimbatore
+ with a strong passion for Web Development and Machine Learning Engineering. <br><br>
 👯I enjoy building intelligent systems that solve real-world problems using data-driven approaches.<br><br>
 🤝During my third year, I successfully completed a project titled “Develop an AI System to Identify and Block Phishing Emails”, where I built a phishing email detection system using Machine Learning and XG-Boost.<br><br>  <img align="right" hight="290" width="370" src="https://www.tech-bhai.com/wp-content/uploads/2024/10/gifImg-8.gif" alt="no gif load"><br>
 🌱 The project was developed using Python, Flask, HTML, and CSS, focusing on building a practical and user-friendly web-based solution.<br><br>
