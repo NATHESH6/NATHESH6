@@ -78,6 +78,7 @@
 
 ### 📈 Contribution Graph
 <hr>
+
 ![NATHESH's GitHub Contribution Graph](https://github-contribution-graph.vercel.app/graph?username=NATHESH6)
-[![NATHESH6's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NATHESH6&bg_color=24292f&color=f5f5f5&line=7ef7f5&point=07eded&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
