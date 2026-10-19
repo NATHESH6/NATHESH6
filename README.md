@@ -79,6 +79,4 @@
 ### 📈 Contribution Graph
 <hr>
 
-![NATHESH's GitHub Contribution Graph](https://github-contribution-graph.vercel.app/graph?username=NATHESH6)
-
-![NATHESH's GitHub Contribution Graph](https://github-contribution-graph.vercel.app/graph?username=NATHESH6)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
